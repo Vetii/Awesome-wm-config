@@ -1,0 +1,1 @@
+/home/vetii/.config/rc.lua
